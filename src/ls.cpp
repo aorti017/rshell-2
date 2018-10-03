@@ -13,9 +13,7 @@
 #include <iomanip>
 
 #include <iostream>
-
 using namespace std;
-
 
 
 void print(vector<string> &d, int aflag,int lflag, int Rflag, int args, int &width) {
